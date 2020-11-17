@@ -16,15 +16,14 @@
 <a href="https://www.youtube.com/channel/UCIf6-cRbSDME2UhHjxlRBew/">
   <img align="left" alt="Ahzam's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-
-<h1 align="center">
- <img src="https://github.com/ahzam-shahnil/ahzam_shahnil/blob/master/Ahzam_Shahnil.png" />
-</h1>
-<br />
 <h1 align="center">
  ### Hi there 👋, my name is Ahzam Shahnil.
   <br />
  #### I am a tech enthusiast and  a Full Stack Web and App Developer.
+</h1>
+
+<h1 align="center">
+ <img src="https://github.com/ahzam-shahnil/ahzam_shahnil/blob/master/Ahzam_Shahnil.png" />
 </h1>
 
 
