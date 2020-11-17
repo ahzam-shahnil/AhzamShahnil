@@ -21,14 +21,15 @@
 ### Hi there 👋, my name is Ahzam Shahnil.
 #### I am a tech enthusiast and  a Full Stack Web and App Developer.
 ![I am a tech enthusiast and  a Full Stack Web and App Developer.]
-
+<br />
 👨🏽‍💻 I’m currently working on something cool 😉;
+<br />
 🌱 I’m currently learning Flutter and Designing;
+<br />
 💬 Ask me about anything, I am happy to help;
+<br />
 
 Skills: FLUTTER / JAVA / JS / HTML / CSS / ANDROID / C
-
-- 🔭 I’m currently working on this page. 
 
 <h1 align="center">
  <img src="https://github.com/ahzam-shahnil/ahzam_shahnil/blob/master/Ahzam_Shahnil.png" />
