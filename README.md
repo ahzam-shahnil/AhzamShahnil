@@ -36,7 +36,6 @@
 💬 Ask me about anything, I am happy to help;
 <br />
 
-Skills: FLUTTER / JAVA / JS / HTML / CSS / ANDROID / C
-
-
-
+<h2 align="center">
+  Skills: FLUTTER / JAVA / JS / HTML / CSS / ANDROID / C
+  </h2>
