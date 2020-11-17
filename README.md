@@ -6,7 +6,7 @@
 </h1>
 
 <h1 align="center">
- <img src="https://github.com/ahzam-shahnil/ahzam_shahnil/blob/master/Ahzam_Shahnil.png" />
+ <img src="https://github.com/ahzam-shahnil/ahzam_shahnil/blob/master/Ahzam_Shahnil.png?raw=true" />
 </h1>
 
 
