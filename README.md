@@ -22,7 +22,7 @@
   Skills: FLUTTER / JAVA / JS / HTML / CSS / ANDROID / C
   </h2>
   
-  ### Connect to me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <h3>Connect to me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 <a href="https://m.facebook.com/ahzam.shahnil/">
   <img align="left" alt="Ahzam's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
